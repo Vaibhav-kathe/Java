@@ -1,2 +1,2 @@
-# Java-
-in this all the java projecr are there
+# Java
+This is Demo file
